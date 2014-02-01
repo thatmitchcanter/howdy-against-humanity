@@ -6,7 +6,6 @@ Tested up to: 3.8.1
 Stable tag: trunk
 License: GPL 3.0
 License URI: http://www.gnu.org/licenses/gpl.html
-Plugin URI: http://www.studionashvegas.com/plugins/howdy-against-humanity
 
 This plugin changes the "Howdy" in the top right corner to something much more fun (and sometimes irreverent).
 
